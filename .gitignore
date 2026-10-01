@@ -1,0 +1,9 @@
+build/
+dist/
+nbproject/private/
+nbproject/Makefile-local-*.mk
+*.o
+*.elf
+*.map
+*.lst
+queuelogs/
